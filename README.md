@@ -6,6 +6,7 @@
 <h1>communication concepts and strategies</h1>
   <img src="website.png" alt="website">
 <h1>Show confidence and skills in oral communications and presentations</h1>
+  <p>I am showing my confidence and communication skills in fornt of the class.I was confident<br> I used different gestyures at the time of presentation.</>
    <img src="oral.jpg" alt="oral communication">
 <h1>Work effectively as part of a team</h1>
    <img src="team.jpg" alt="team">
