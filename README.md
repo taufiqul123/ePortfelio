@@ -8,7 +8,7 @@
 <h2>Show confidence and skills in oral communications and presentations</h2>
    <img src="oral.jpg" alt="oral communication">
 <h3>Work effectively as part of a team</h3>
-   <img src="team.jpgg" alt="team">
+   <img src="team.jpg" alt="team">
 <h4>Communicate effectively in a professional context</h4>
   <img src="professional" alt="professional context">
 <h5> Define and demonstrate conflict management and resolution strategies</h5>
