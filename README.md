@@ -10,7 +10,7 @@
 <h1>Work effectively as part of a team</h1>
    <img src="team.jpg" alt="team">
 <h1>Communicate effectively in a professional context</h1>
-  <img src="professional" alt="professional context">
+  <img src="professional.jpg" alt="professional context">
 <h1> Define and demonstrate conflict management and resolution strategies</h1>
 <img src="web3.png" alt="web3">
 
